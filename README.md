@@ -46,7 +46,7 @@ docker build . -t heroes
 docker run -p 8081:7071 heroes
 ```
 
-Locate angular-sample folder.
+Locate angular-sample-nginx folder.
 Build and run
 ```
 docker build . -t heroesnginx
