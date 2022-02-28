@@ -1,4 +1,4 @@
-#Image we strart from
+#Image we strat from
 FROM node:14 
 #Create /app in the image
 RUN mkdir -p /app
