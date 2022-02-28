@@ -56,6 +56,8 @@ docker run -p 8080:80 heroesnginx
 
 ### Heroes Angular Example with volumes
 
+Locate angular-sample-nginx-compiled folder. Build and run
+
 Run
 ```
 docker run \
